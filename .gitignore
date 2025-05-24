@@ -1,3 +1,4 @@
 env/
 __pycache__/
 S3_data_storage.py
+db-password.txt
